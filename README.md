@@ -5,6 +5,7 @@
 
 # Introduction-Dynamics-Modeling-Simulation
 In this course on system modeling with MATLAB and Simulink, you'll learn the basics of Simulink and Simscape, two powerful tools for simulating dynamic systems. We'll cover everything from connecting blocks to modeling some mechanical systems, giving you practical experience in system analysis. Let's dive in and explore together!
+
 ![image](https://github.com/ClaudiaYasar/Introduction-Dynamics-Modeling-Simulation/assets/132692602/71f844ee-84fd-4d67-8ad6-af68482d17a9)
 
 # Acknowledgments
