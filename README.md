@@ -1,7 +1,5 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ClaudiaYasar/IntelligentControl&file=https://github.com/ClaudiaYasar/IntelligentControl/tree/main&line=1)
 
 # System Dynamics Modeling and Simulation by Asst. Prof. Dr. Claudia F. Yaşar
-[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164631-introduction-dynamics-modeling-simulation)]
 
 # Introduction-Dynamics-Modeling-Simulation
 In this course on system modeling with MATLAB and Simulink, you'll learn the basics of Simulink and Simscape, two powerful tools for simulating dynamic systems. We'll cover everything from connecting blocks to modeling some mechanical systems, giving you practical experience in system analysis. Let's dive in and explore together!
